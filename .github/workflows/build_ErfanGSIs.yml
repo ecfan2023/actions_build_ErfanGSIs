@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.13.0.TMCCNXM/miui_FUXI_V14.0.13.0.TMCCNXM_8fa764eb0d_13.0.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.9.0.TMCCNXM/miui_FUXI_V14.0.9.0.TMCCNXM_18131fe0aa_13.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
