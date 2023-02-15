@@ -14,9 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.9.0.TMCCNXM/miui_FUXI_V14.0.9.0.TMCCNXM_18131fe0aa_13.0.zip
-  ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16/8.1.5.1/cn/20210826144309/44eca339/update.zip
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
